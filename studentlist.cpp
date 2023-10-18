@@ -1,3 +1,8 @@
+/* Student List is a program where you can add new students to a database and print them out or delete them from it
+   Author: Rowan Miller
+   10/16/23
+ */ 
+
 #include <iostream>
 #include <cstring>
 #include <vector>
